@@ -1,7 +1,7 @@
 pandas==2.2.2
 scikit-learn
 pdfplumber
-spacy
+spacy==3.4.4
+thinc==8.0.17
 streamlit_tags
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
-thinc==8.0.17
