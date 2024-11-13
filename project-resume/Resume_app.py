@@ -9,6 +9,13 @@ from spacy.pipeline import EntityRuler
 from spacy.matcher import Matcher
 import pandas as pd  # Import pandas for displaying data as a table
 
+import spacy
+from spacy.cli import download
+
+# Download the model if it's missing
+download("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm")
+
 
 # Load SpaCy model
 nlp = spacy.load("en_core_web_sm")
