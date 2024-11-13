@@ -1,5 +1,4 @@
 pdfplumber
 spacy==3.7.2
 en-core-web-sm==3.0.0
-pandas
 streamlit_tags

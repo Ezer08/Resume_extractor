@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97258a65-5004-48c6-b107-94c8be4a048a" name="Changes" comment="add requirements.txt add pakage">
-      <change beforePath="$PROJECT_DIR$/project-resume/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project-resume/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="97258a65-5004-48c6-b107-94c8be4a048a" name="Changes" comment="add requirements.txt add pakage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -180,7 +178,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731523471577</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add requirements.txt add pakage">
+      <option name="closed" value="true" />
+      <created>1731523622161</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523622161</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add requirements.txt add pakage">
+      <option name="closed" value="true" />
+      <created>1731523704266</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523704266</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add requirements.txt add pakage">
+      <option name="closed" value="true" />
+      <created>1731523906455</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523906455</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
