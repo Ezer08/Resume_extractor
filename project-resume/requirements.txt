@@ -1,6 +1,5 @@
-pandas==2.2.2
-scikit-learn
 pdfplumber
-thinc==8.0.17
+spacy==3.7.2
+fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.7.0/fr_core_news_sm-3.7.0.tar.gz
+pandas
 streamlit_tags
-en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz

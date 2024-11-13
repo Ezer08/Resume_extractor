@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97258a65-5004-48c6-b107-94c8be4a048a" name="Changes" comment="add requirements.txt smcore">
+    <list default="true" id="97258a65-5004-48c6-b107-94c8be4a048a" name="Changes" comment="add requirements.txt add pakage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-resume/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project-resume/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +132,31 @@
       <option name="project" value="LOCAL" />
       <updated>1731438829667</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add requirements.txt thinc">
+      <option name="closed" value="true" />
+      <created>1731439370184</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731439370184</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add requirements.txt add pakage">
+      <option name="closed" value="true" />
+      <created>1731439634960</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731439634960</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add requirements.txt add pakage">
+      <option name="closed" value="true" />
+      <created>1731440088479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731440088479</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +174,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="add requirements.txt" />
     <MESSAGE value="add requirements.txt smcore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add requirements.txt smcore" />
+    <MESSAGE value="add requirements.txt thinc" />
+    <MESSAGE value="add requirements.txt add pakage" />
+    <option name="LAST_COMMIT_MESSAGE" value="add requirements.txt add pakage" />
   </component>
 </project>
