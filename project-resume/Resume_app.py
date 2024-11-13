@@ -94,7 +94,7 @@ st.markdown(
 )
 
 # Add logo to the right of the title
-logo_path = "C:\\Users\\ezer2\\Desktop\\CVs\\LOGO.jpg"  # Adjust this path to your logo
+logo_path = "LOGO.jpg"  # Adjust this path to your logo
 col1, col2 = st.columns([4, 1])  # Create two columns with a 4:1 ratio
 with col1:
     st.title("Resume Parser with Machine Learning")
