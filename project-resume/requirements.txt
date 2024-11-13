@@ -1,5 +1,5 @@
 pdfplumber
 spacy==3.7.2
-fr-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_sm-3.7.0/fr_core_news_sm-3.7.0.tar.gz
+en-core-web-sm==3.0.0
 pandas
 streamlit_tags
