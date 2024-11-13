@@ -9,6 +9,8 @@ from spacy.pipeline import EntityRuler
 from spacy.matcher import Matcher
 import pandas as pd  # Import pandas for displaying data as a table
 
+nlp = spacy.load("en_core_web_sm")
+print(nlp.meta["version"])
 
 # Load SpaCy model
 nlp = spacy.load("en_core_web_sm")
@@ -300,3 +302,4 @@ if uploaded_file is not None:
 
     # Clean up temporary file
     os.remove(temp_pdf_path)
+
