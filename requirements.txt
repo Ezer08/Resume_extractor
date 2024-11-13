@@ -1,5 +1,5 @@
+pandas
+spacy
 streamlit-tags
 pdfplumber
-spacy
-pandas
 en_core_web_sm

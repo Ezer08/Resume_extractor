@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97258a65-5004-48c6-b107-94c8be4a048a" name="Changes" comment="add requirements.txt add pakageyj">
+    <list default="true" id="97258a65-5004-48c6-b107-94c8be4a048a" name="Changes" comment="add requirements.txt new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-resume/Resume_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/project-resume/Resume_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project-resume/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +221,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731524042974</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add requirements.txt new">
+      <option name="closed" value="true" />
+      <created>1731526185860</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1731526185860</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add requirements.txt new">
+      <option name="closed" value="true" />
+      <created>1731526345686</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1731526345686</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +258,7 @@
     <MESSAGE value="add requirements.txt thinc" />
     <MESSAGE value="add requirements.txt add pakage" />
     <MESSAGE value="add requirements.txt add pakageyj" />
-    <option name="LAST_COMMIT_MESSAGE" value="add requirements.txt add pakageyj" />
+    <MESSAGE value="add requirements.txt new" />
+    <option name="LAST_COMMIT_MESSAGE" value="add requirements.txt new" />
   </component>
 </project>
